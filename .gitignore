@@ -1,0 +1,20 @@
+ECHO is on.
+# Bỏ qua thư mục cache
+.cache/
+# Bỏ qua thư mục gradle
+.gradle/
+# Bỏ qua thư mục Android Studio
+AndroidStudioProjects/
+# Bỏ qua các tệp tạm thời
+*.tmp
+# Bỏ qua các tệp log
+*.log
+# Bỏ qua tệp cấu hình người dùng
+.vscode/
+*.config
+# Bỏ qua tệp nhị phân biên dịch
+*.class
+*.jar
+# Bỏ qua thư mục chứa tệp dữ liệu tạm thời
+temp/
+
